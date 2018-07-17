@@ -15,18 +15,18 @@ Los modulos que tendra el sistema son los siguientes:
 * Talleres
 
 ## Tecnologías Utilizadas
--[x] MariaDB
--[x] PHP 7
--[x] Java Script
--[x] CSS 3
--[x] HTML 5
+- [x] MariaDB
+- [x] PHP 7
+- [x] Java Script
+- [x] CSS 3
+- [x] HTML 5
 
 ## Avance del proyecto
--[x] Alcance
--[x] Minuta de Reunion
--[x] Project Charter
--[] Modelo de Dominio
--[] Casos de Uso
--[] Diagrama de secuancia 
+- [x] Alcance
+- [x] Minuta de Reunion
+- [x] roject Charter
+- [ ] Modelo de Dominio
+- [ ] Casos de Uso
+- [ ] Diagrama de secuancia 
 
 
